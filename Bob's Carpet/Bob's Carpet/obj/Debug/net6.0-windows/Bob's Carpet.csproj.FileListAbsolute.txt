@@ -1,0 +1,16 @@
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\bin\Debug\net6.0-windows\Bob's Carpet.exe
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\bin\Debug\net6.0-windows\Bob's Carpet.deps.json
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\bin\Debug\net6.0-windows\Bob's Carpet.runtimeconfig.json
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\bin\Debug\net6.0-windows\Bob's Carpet.dll
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\bin\Debug\net6.0-windows\Bob's Carpet.pdb
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\Bob_s_Carpet.Form1.resources
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\Bob's Carpet.csproj.GenerateResource.cache
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\Bob's Carpet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\Bob's Carpet.AssemblyInfoInputs.cache
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\Bob's Carpet.AssemblyInfo.cs
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\Bob's Carpet.csproj.CoreCompileInputs.cache
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\Bob's Carpet.dll
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\refint\Bob's Carpet.dll
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\Bob's Carpet.pdb
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\Bob's Carpet.genruntimeconfig.cache
+C:\Users\Ethan.Cooper6147\Desktop\C#\Bob's Carpet\Bob's Carpet\obj\Debug\net6.0-windows\ref\Bob's Carpet.dll
